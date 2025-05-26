@@ -17,7 +17,7 @@
 <picture> <img align="right"  src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExNHd6YmdwaGV0czliYzRucXRpc2F1eGlwYWoyYmc2eDN2ZXVjeHJhZiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/HzPtbOKyBoBFsK4hyc/giphy.webp" width = 170px ></picture>
 
 
-- :school: I am a `Junior` of [The Bridge School ]([(https://thebridge.tech/)) in [Spain]
+- :school: I am a `Junior` web Developer of [The Bridge School ]([(https://thebridge.tech/)) in [Spain]
 - :technologist: **Currently working on** `Frontend Development` **&** `BackEnd Development`
 - :email: Feel free to **reach me out** [![Send me Email](https://img.shields.io/static/v1?label=email&amp;message=Leo&amp;color=EA4335&amp;style=flat-square)](mailto:leonelsicaro@gmail.com)
 
